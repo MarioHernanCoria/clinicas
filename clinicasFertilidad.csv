@@ -1,8 +1,8 @@
-nombre,direccion,latitud,longitud
-CEGYR Medicina Reproductiva,Viamonte 1432,-34.6007441,-58.3871741
-CER,Humboldt 2263,-34.5806714,-58.4302438
-Centro de Investigaciones en Medicina Reproductiva,Av.Forest 1166,-34.5788222,-58.4600967
-Centro Gens,Alvear 514,-34.7197709,-58.2562604
-Halitus Instituto Médico,Marcelo T. de Alvear 2084,-34.5974643,-58.3971746
-Maternity Bank,Bulnes 1104,-34.5983,-58.4179
-WeFIV,Av. del Libertador 5962,-34.5571,-58.4476
+nombre,direccion,latitud,longitud,provincia
+CEGYR Medicina Reproductiva,Viamonte 1432,-34.6007441,-58.3871741,Capital Federal
+CER,Humboldt 2263,-34.5806714,-58.4302438,Catamarca
+Centro de Investigaciones en Medicina Reproductiva,Av.Forest 1166,-34.5788222,-58.4600967,Chaco
+Centro Gens,Alvear 514,-34.7197709,-58.2562604,Chubut
+Halitus Instituto Médico,Marcelo T. de Alvear 2084,-34.5974643,-58.3971746,Capital Federal
+Maternity Bank,Bulnes 1104,-34.5983,-58.4179,Capital Federal
+WeFIV,Av. del Libertador 5962,-34.5571,-58.4476,Capital Federal
